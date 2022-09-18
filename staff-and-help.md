@@ -90,7 +90,7 @@ student performance and higher grades.
 All of the exams, including the **final exam**, will be in-person. The **midterm
 exams** will be held during lecture time. Students must attend their scheduled lecture
 on those days. Students will be required to take the final exam during the 
-scheduled block, the room will be posted in Week 10.
+scheduled block, the location will be posted in Week 10.
 
 Note: there are **no** online exams. All exams must be taken **in-person**.
 
