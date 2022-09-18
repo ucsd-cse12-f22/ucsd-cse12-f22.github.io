@@ -12,17 +12,12 @@ videos:
 
 _{{ page.released-on }}_
 
-Please do the [Pre-test/survey](https://forms.gle/o9ivk9VMjorSU8L97){:target="_blank"} by Friday, April 1st by 10pm.
+Readings (to be completed by 8am on September 26, **before** problem session). You will
+need to make an account on Stepik to have your work saved.
+- [Stepik 1.1](https://stepik.org/lesson/660933/step/1?unit=658548){:target="_blank"}
+- [Stepik 2.1-2.6](https://stepik.org/lesson/693583/step/1?unit=693185){:target="_blank"}
 
-[Lecture Quiz 1](https://www.gradescope.com/courses/381276/assignments/1958223/){:target="_blank"} due Monday by 10pm.
-
-Readings (optional)
-- zyBooks Chapter 1 - Introduction to Data Structures and Algorithms
-- zyBooks Chatper 2 - Lists, Stacks, and Queues
-
-1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
-2. Enter zyBook code: UCSDCSE12MirandaSpring2022
-3. Subscribe
+To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/rrhGj9YtaCG9tket9){:target="_blank"} by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
 Videos (to watch **before** your problem session on September 26):
 
