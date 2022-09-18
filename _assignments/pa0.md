@@ -11,15 +11,15 @@ released-on: "2022-09-23"
 
 This optional assignment will teach you how to setup Java and Eclipse, get the starter code from GitHub, and how to run Eclipse projects. If you already have the JDK installed from a previous quarter and a way to edit, compile and run Java programs, then you can skip this assignment. Any IDE can be used, however, the course staff is most familiar with Eclipse and may not be able to help you with IDE issue if you choose to use a different IDE such as IntelliJ. Note: you can also use a text editor and commandline if you wish, an IDE is not required.
 
-There is no submission or grade for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, March 30th.
+There is no submission or grade for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, September 28th.
 
-If you run into any problems, please reach out to a tutor during tutor hours using https://autograder.ucsd.edu/ to get 1-on-1 help (make sure to select CSE 12 - SP22), or stop by instructor/TA office hours.
+If you run into any problems, please reach out to a tutor during tutor hours using https://autograder.ucsd.edu/ to get 1-on-1 help (make sure to select CSE 12 - FA22), or stop by instructor/TA office hours.
 
 What if you already have a different version of Java? In general, you will most likely be fine, but if you run into problems compiling and running your code, we will suggest uninstalling your old version and reinstalling the latest JDK.
 
 ## Download Java & Eclipse
 
-Follow this document to install Java and Eclipse for either Windows or Mac: [Installtion Instructions](https://docs.google.com/document/d/1ExUKTTV19OBbYqaDmnz4TfDlbrRORy0fgo3UO3nDGRY/edit?usp=sharing)
+Follow this document to install Java and Eclipse for either Windows or Mac: [Installation Instructions](https://docs.google.com/document/d/1ExUKTTV19OBbYqaDmnz4TfDlbrRORy0fgo3UO3nDGRY/edit?usp=sharing)
 
 ## Getting the Code
 
