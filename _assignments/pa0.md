@@ -9,13 +9,21 @@ released-on: "2022-09-23"
 
 ### Computer Setup
 
-This optional assignment will teach you how to setup Java and Eclipse, get the starter code from GitHub, and how to run Eclipse projects. If you already have the JDK installed from a previous quarter and a way to edit, compile and run Java programs, then you can skip this assignment. Any IDE can be used, however, the course staff is most familiar with Eclipse and may not be able to help you with IDE issue if you choose to use a different IDE such as IntelliJ. Note: you can also use a text editor and commandline if you wish, an IDE is not required.
+This optional assignment will teach you how to setup Java and Eclipse, get the starter code from GitHub, and how to run Eclipse projects from your own computer. If you already have the JDK installed from a previous quarter and a way to edit, compile and run Java programs, then you can skip this assignment. If you plan on using the lab computers in the CSE basement, you can also skip this assignment.
+
+Any IDE can be used, however, the course staff is most familiar with Eclipse and may not be able to help you with IDE issue if you choose to use a different IDE such as IntelliJ. Note: you can also use a text editor and commandline if you wish, an IDE is not required. VSCode also works fine for editing files, but using the commandline with jUnit can be difficult.
 
 There is no submission or grade for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, September 28th.
 
-If you run into any problems, please reach out to a tutor during tutor hours using [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/){:target="_blank"}  to get 1-on-1 help (make sure to select CSE 12 - FA22), or stop by instructor/TA office hours.
+If you run into any problems, please reach out to a tutor during tutor hours using [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/){:target="_blank"} to get 1-on-1 help (make sure to select CSE 12 - FA22), or stop by instructor/TA office hours.
 
 What if you already have a different version of Java? In general, you will most likely be fine, but if you run into problems compiling and running your code, we will suggest uninstalling your old version and reinstalling the latest JDK.
+
+## Using the Lab Computesr
+
+Log into your cs12f22 account.1
+- If the lab computer is in Windows then restart and choose CentOS.
+- If you’re logged into the lab machine with your regular UCSD credentials, first log out. Now, log in to the machine with your CSE 12 account. The username starts with "cs12f22”. If you don’t know what it is, use the ACMS account lookup tool: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php){:target="_blank"}.
 
 ## Download Java & Eclipse
 
