@@ -20,7 +20,7 @@ and code examples, notes, and recordings from the problem solving session.
 Session plan:
 - 2-3 min: Introduce instructors/staff
 - 2-3 min: Say hi to the people around you
-- 30 min: syllabus
+- 40 min: syllabus
     - Problem Solving Sessions, videos
     - Stepik
     - Programming
