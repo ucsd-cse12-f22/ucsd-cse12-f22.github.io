@@ -23,7 +23,7 @@ What if you already have a different version of Java? In general, you will most 
 
 Log into your cs12f22 account.
 - If the lab computer is in Windows then restart and choose CentOS.
-- If you’re logged into the lab machine with your regular UCSD credentials, first log out. Now, log in to the machine with your CSE 12 account. The username starts with "cs12f22”. If you don’t know what it is, use the ACMS account lookup tool: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php){:target="_blank"}.
+- If you’re logged into the lab machine with your regular UCSD credentials, first log out. Then, log in to the machine with your CSE 12 account. The username starts with "cs12f22”. If you don’t know what it is, use the ACMS account lookup tool: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php){:target="_blank"}.
 
 ## Download Java & Eclipse
 
