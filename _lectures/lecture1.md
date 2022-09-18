@@ -33,7 +33,7 @@ Session plan:
 After the first lecture, there is one video to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
 
-Join the Basic Data Structures and Object-Oriented Design  [Stepik](https://stepik.org/course/109917/syllabus) texbook.
+Join the Basic Data Structures and Object-Oriented Design  [Stepik](https://stepik.org/course/109917/syllabus){:target="_blank"} texbook.
 
 Then, fill out the [Stepik ID form](https://forms.gle/rrhGj9YtaCG9tket9){:target="_blank"} by Friday, October 7th by 10pm
 with your Stepik ID.
