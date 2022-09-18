@@ -29,11 +29,9 @@ Log into your cs12f22 account.
 
 Follow this document to install Java and Eclipse for either Windows or Mac: [Installation Instructions](https://docs.google.com/document/d/1ExUKTTV19OBbYqaDmnz4TfDlbrRORy0fgo3UO3nDGRY/edit?usp=sharing){:target="_blank"}
 
-
 ## Getting the Code
 
-The starter code can be found at the following [Github repository](https://github.com/ucsd-cse12-f22/cse12-pa0-starter){:target="_blank"}
-. If you are not familiar with Github, here are two easy ways to get your code.
+The starter code can be found at the following [Github repository](https://github.com/ucsd-cse12-f22/cse12-pa0-starter){:target="_blank"}. If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
@@ -44,7 +42,6 @@ The starter code can be found at the following [Github repository](https://githu
     After going to the Github repository, you should see a green button that says *Code*. Click on that button. You should see something that says *Clone with HTTPS*. Copy the link that is in that section. In terminal/command line, navigate to whatever folder/directory you would like to work. Type the command `git clone _` where the `_` is replaced with the link you copied. This should clone the repository on your computer and you can then edit the files on whatever IDE you see fit.
     
 If you are unsure or have questions about how to get the starter code, feel free to make a Piazza post or ask a tutor for help.
-
 
 
 ## Running an Eclipse Project
