@@ -12,6 +12,8 @@ videos:
 
 _{{ page.released-on }}_
 
+No Stepik readings for Wednesday.
+
 Videos (to watch **before** your problem session on September 28):
 
 {% for video in page.videos %}
