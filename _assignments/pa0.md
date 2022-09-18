@@ -89,7 +89,7 @@ Running on Windows systems:
 - Execute: `java HelloWorld`
 
 To use the ieng6 server, we suggest using the UCSD CloudLab (https://cloudlabs.ucsd.edu/). Using CloudLab, you can select a Linux machine and work through a web browser. This is if you would like to run the code through the command line rather than using Eclipse.   
-Basic Instructions: [how to to connect through CloudLab](https://docs.google.com/document/d/1zYHqqMIrAEN4SLo8FCDweHBNpXwFW2chThXNHVtY2gQ/edit?usp=sharing)
+Basic Instructions: [how to to connect through CloudLab](https://docs.google.com/document/d/1zYHqqMIrAEN4SLo8FCDweHBNpXwFW2chThXNHVtY2gQ/edit?usp=sharing){:target="_blank"}
 
 ## Submitting
 
