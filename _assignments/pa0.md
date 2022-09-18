@@ -19,11 +19,13 @@ What if you already have a different version of Java? In general, you will most 
 
 ## Download Java & Eclipse
 
-Follow this document to install Java and Eclipse for either Windows or Mac: [Installation Instructions](https://docs.google.com/document/d/1ExUKTTV19OBbYqaDmnz4TfDlbrRORy0fgo3UO3nDGRY/edit?usp=sharing)
+Follow this document to install Java and Eclipse for either Windows or Mac: [Installation Instructions](https://docs.google.com/document/d/1ExUKTTV19OBbYqaDmnz4TfDlbrRORy0fgo3UO3nDGRY/edit?usp=sharing){:target="_blank"}
+
 
 ## Getting the Code
 
-The starter code can be found at the following [Github repository](https://github.com/ucsd-cse12-f22/cse12-pa0-starter). If you are not familiar with Github, here are two easy ways to get your code.
+The starter code can be found at the following [Github repository](https://github.com/ucsd-cse12-f22/cse12-pa0-starter){:target="_blank"}
+. If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
