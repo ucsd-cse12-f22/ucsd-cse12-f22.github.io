@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 1
 name: PA0
-released-on: "2022-03-28"
+released-on: "2022-09-23"
 ---
 
 # CSE 12 Programming Assignment 0 (Optional)
