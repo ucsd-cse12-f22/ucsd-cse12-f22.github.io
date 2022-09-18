@@ -2,24 +2,23 @@
 layout: with-sidebar
 title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
 ---
-# UCSD CSE 12 Spring 2022
+# UCSD CSE 12 Fall 2022
 ## Asking Questions and Getting Help
 
-There are 9 staff members (instructor, TAs, and tutors) to help with your
+There are 22 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home](https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home)
-- Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu)
-- Tutoring Procedurs: [https://docs.google.com/document/d/1v2zeSIOxNwo2YBY952HKplxH8FgDSxdIvIoeVEL76x4/edit?usp=sharing](https://docs.google.com/document/d/1v2zeSIOxNwo2YBY952HKplxH8FgDSxdIvIoeVEL76x4/edit?usp=sharing)
-- Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9)
+- Piazza Message Board: [https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home](https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home){:target="_blank"}
+- Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
+- Tutoring Procedurs: [https://docs.google.com/document/d/1RKFiLzcTFuxARbkcJtdn1VaDhTwzS_KExWzXD6Rrfj4/edit?usp=sharing](https://docs.google.com/document/d/1RKFiLzcTFuxARbkcJtdn1VaDhTwzS_KExWzXD6Rrfj4/edit?usp=sharing){:target="_blank"}
+- Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
-- Greg
+- Greg Miranda
   - Email: `g2miranda@eng.ucsd.edu`
-  - **In-person only office hours**: Tuesday 9:45am-11:15am, CSE 4204
-  - **Remote only office hours**: Thursday 9:45am-11:15am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+  - **Office hours**: Thursday 8:30am-10:30am and Friday 12:15pm-1:15pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
