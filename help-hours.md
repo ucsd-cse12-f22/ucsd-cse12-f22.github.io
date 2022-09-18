@@ -20,8 +20,7 @@ that you may meet with tutors and TAs to receive help. Office hours to meet with
 are a different option, and are explained later on this page. 
 
 The process for getting help can be found in the
-[Tutoring Procedurs](https://docs.google.com/document/d/1RKFiLzcTFuxARbkcJtdn1VaDhTwzS_KExWzXD6Rrfj4/edit?usp=sharing)
-document.
+[Tutoring Procedurs](https://docs.google.com/document/d/1RKFiLzcTFuxARbkcJtdn1VaDhTwzS_KExWzXD6Rrfj4/edit?usp=sharing){:target="_blank"} document.
 
 Once you've submitted a ticket, a staff member will accept your ticket when available. You will get 
 updates in autograder about your ticket once you file it.
@@ -70,12 +69,11 @@ help hours with the tutors.
 Instructors for this course:
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **In-person only office hours**: Tuesday 9:45am-11:15am, CSE 4204
-  - **Remote only office hours**: Thursday 9:45am-11:15am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+  - **Office hours**: Thursday 8:30am-10:30am and Friday 12:15pm-1:15pm, CSE 4204
   
 ### Our Staff
 The friendly faces of this course! We have 9 staff members(instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRx2JnJQRN9oF2m0go0BF2_ATVnkcOOc4JvhoVF8dbgxSQ_nEN1mYl8XWz1vNIAXtLuetL-AIDII6f_/pubhtml?widget=true&amp;headers=false"
-width="100%" height="630px"></iframe>
+width="100%" height="730px"></iframe>
