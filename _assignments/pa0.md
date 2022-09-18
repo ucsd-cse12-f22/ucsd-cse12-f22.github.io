@@ -73,7 +73,7 @@ Now, the errors highlighted on the code editor should disappear and your program
 ## Running through the ieng6 Server or through the Terminal
 Alternatively, if you would like to use a plain text editor (i.e. vim, Atom, NotePad, VSCode etc.) and a terminal, you can compile and run the code using the following commands. This is also an option for you if you cannot install anything on your personal computer, such as a Chromebook. Note: make sure when you run the command in the same directory where the file is located. In this case, that would be the `pa0-starter/src` folder.
 
-Running on UNIX based systems:
+Running on Mac/Linux based systems:
 - Compile: `javac HelloWorld.java`
 - Execute: `java HelloWorld`
 
