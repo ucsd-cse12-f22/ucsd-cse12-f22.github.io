@@ -13,7 +13,7 @@ This optional assignment will teach you how to setup Java and Eclipse, get the s
 
 There is no submission or grade for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, September 28th.
 
-If you run into any problems, please reach out to a tutor during tutor hours using https://autograder.ucsd.edu/ to get 1-on-1 help (make sure to select CSE 12 - FA22), or stop by instructor/TA office hours.
+If you run into any problems, please reach out to a tutor during tutor hours using [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/){:target="_blank"}  to get 1-on-1 help (make sure to select CSE 12 - FA22), or stop by instructor/TA office hours.
 
 What if you already have a different version of Java? In general, you will most likely be fine, but if you run into problems compiling and running your code, we will suggest uninstalling your old version and reinstalling the latest JDK.
 
