@@ -22,7 +22,7 @@ Session plan:
 - 2-3 min: Say hi to the people around you
 - 30 min: syllabus
     - Problem Solving Sessions, videos
-    - zyBooks
+    - Stepik
     - Programming
     - Exams
     - Getting Help
