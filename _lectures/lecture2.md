@@ -38,7 +38,7 @@ Videos (to watch **before** your problem session on September 26):
 
 ## Handout
 
-
+<iframe src="https://drive.google.com/file/d/1vgG27BR__kP7YFxi9_c_3ph759frNB7q/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
