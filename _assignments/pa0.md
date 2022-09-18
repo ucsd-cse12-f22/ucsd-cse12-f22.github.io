@@ -19,7 +19,7 @@ If you run into any problems, please reach out to a tutor during tutor hours usi
 
 What if you already have a different version of Java? In general, you will most likely be fine, but if you run into problems compiling and running your code, we will suggest uninstalling your old version and reinstalling the latest JDK.
 
-## Using the Lab Computesr
+## Using the CSE Basement Lab Computers
 
 Log into your cs12f22 account.
 - If the lab computer is in Windows then restart and choose CentOS.
