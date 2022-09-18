@@ -50,6 +50,10 @@ Videos (to watch **after** your problem session on September 23):
 
 [Pre-Lecture 1](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_pre-lectures/lecture-01){:target="_blank"}
 
-## Notes & Files from Live-Lecture
+## Notes & Files from Problem Solving Session 
 
-[Notes](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
+[8AM Lecture](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-01/A00){:target="_blank"}
+
+[9AM Lecture](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-01/B00){:target="_blank"}
+
+[11AM Lecture](https://github.com/ucsd-cse12-sp22/ucsd-cse12-sp22.github.io/tree/main/_lectures/lecture-01/C00){:target="_blank"}
