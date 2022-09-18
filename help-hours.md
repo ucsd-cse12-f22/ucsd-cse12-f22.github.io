@@ -67,7 +67,7 @@ can also ask us programming questions in office hours, just like you would in
 help hours with the tutors. 
 
 Instructors for this course:
-- Greg
+- Greg Miranda
   - Email: `g2miranda@eng.ucsd.edu`
   - **Office hours**: Thursday 8:30am-10:30am and Friday 12:15pm-1:15pm, CSE 4204
   
