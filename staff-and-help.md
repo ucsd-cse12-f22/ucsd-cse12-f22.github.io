@@ -27,7 +27,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home](https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home)
+[https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home](https://piazza.com/ucsd/spring2022/cse12_sp22_c00/home){:target="_blank"}
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
@@ -66,13 +66,13 @@ will be graded as usual.
 **I have a question about enrollments and the waitlist.**
 
 Please contact [CSE student
-affairs](https://cse.ucsd.edu/undergraduate/undergraduate/advising/cse-student-affairs-office-hours),
+affairs](https://cse.ucsd.edu/undergraduate/undergraduate/advising/cse-student-affairs-office-hours){:target="_blank"},
 who can give the best advice and information about the enrollment process. They
 are friendly and helpful and know much more about timing and any updates you
 will see through the registration system.
 
 There is some useful advice at [Enrolling in CSE
-Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses) that
+Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses){:target="_blank"} that
 likely summarizes a lot of what they would tell you to get you started.
 
 **Will the course be in-person or remote? Is attendance required?**
@@ -95,7 +95,7 @@ the exam (but not necessarily flexibility to take it on other days).
 **What's the course material like?**
 
 You can see a [previous version of the
-course](https://ucsd-cse12-sp21.github.io/), which will give you a sense. This
+course](https://ucsd-cse12-sp22.github.io/){:target="_blank"}, which will give you a sense. This
 offering will not be identical, but will be similar.
 
 There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
@@ -107,9 +107,8 @@ community member, you can view all the podcasts for the problem sessions at
 [https://podcast.ucsd.edu/](https://podcast.ucsd.edu/). Beyond that we don't
 have any formalized support for auditing the course.
 
-
 **What if I have enrolled in CSE12 but won't be able to be in La Jolla for most
-or all of Spring 2022?**
+or all of Fall 2022?**
 
 If the attendance policy above doesn't address your situation, please contact
 `g2miranda@eng.ucsd.edu`.
