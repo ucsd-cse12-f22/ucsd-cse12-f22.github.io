@@ -56,7 +56,7 @@ looks like this:
 You don't have to go to the labs just for help – you're also welcome just to go
 there to work any time!
 
-### Instructor Office Hours (with professors)
+### Instructor Office Hours (with professor)
 
 “Office hours” should maybe be called “student hours” – they are times where
 we are available in our office (physically or virtually) **for you**. You can
