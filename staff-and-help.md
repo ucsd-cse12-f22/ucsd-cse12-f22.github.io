@@ -87,10 +87,12 @@ Attendance is not required, but is highly recommended. Studies (by UCSD faculty)
 have shown that attendance and participation in lecture leads to better
 student performance and higher grades.
 
-All of the exams, including the **final exam**, will have an asynchronous format. 
-Students will not be required to take the final exam during the scheduled block, 
-and there will be some flexibility on when it needs to be completed on the day of 
-the exam (but not necessarily flexibility to take it on other days). 
+All of the exams, including the **final exam**, will be in-person. The midterm
+exams will be during lecture time. Students must attend their scheduled lecture
+on those days. Students will not be required to take the final exam during the scheduled block,
+the room will be posted in Week 10.
+
+Note: there are **no** online exams. All exams must be taken **in-person**.
 
 **What's the course material like?**
 
