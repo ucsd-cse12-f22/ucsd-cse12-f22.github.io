@@ -22,7 +22,7 @@ Videos (to watch **before** your problem session on September 28):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 2](https://github.com/ucsd-cse12-f22/ucsd-cse12-f22.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
+[Pre-Lecture 3](https://github.com/ucsd-cse12-f22/ucsd-cse12-f22.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
 
 ## Handout
 
