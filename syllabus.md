@@ -236,10 +236,10 @@ The first two exams will each be worth 8% of your final grade. The final exam wi
 
 For example, if you get 50% of the points for midterm 1 and 100% of the points for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and 100% on part 3, you would get:
 
-MAX(0.5, 0.75) * 8 = 6 points for midterm 1 (0.75 was higher, so the final increased the midterm score!)
-MAX(1, 0.25) * 8 = 8 points for midterm 2 (0.25 was lower, so the original midterm score was used)
-0.75 * 8 + 0.25 * 8 + 1 * 8 = 16 points for the final exam (the score on the final exam is the same regardless of how the midterms went)
-A total of 30 out of 40 exam points towards your final grade
+- MAX(0.5, 0.75) * 8 = 6 points for midterm 1 (0.75 was higher, so the final increased the midterm score!)
+- MAX(1, 0.25) * 8 = 8 points for midterm 2 (0.25 was lower, so the original midterm score was used)
+- 0.75 * 8 + 0.25 * 8 + 1 * 8 = 16 points for the final exam (the score on the final exam is the same regardless of how the midterms went)
+- A total of 30 out of 40 exam points towards your final grade
 
 This policy also covers what happens if you miss a midterm for any reason. If you are absent for a midterm, you get a 0 initially, and then whatever score you get on the final for that section will be applied to your midterm grade. There are no make-up midterms, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
 
