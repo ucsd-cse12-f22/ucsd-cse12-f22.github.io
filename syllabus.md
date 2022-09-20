@@ -35,7 +35,7 @@ There are a few components to your grade in the course:
 
 - Course engagement activities (weekly quizzes and surveys) (20%)
 - Programming assignments (40%)
-- Programming assessments (exams) (40%)
+- Exams (40%)
 
 Letter grades will be assigned based on the following grading scale:
 
@@ -213,15 +213,14 @@ are take-home exams.
     - All of the examples in the open section above would be
       academic integrity violations.
 
-Programming assignments are considered open or while all programming
-assessments (exams) are closed collaboration.
+Programming assignments will explicitly list whether they are open or closed collaboration.
 
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}
 on academic integrity as well.
 
 <a id="g:exams"></a>
-<h3>Programming Assessments (Exams)</h3>
+<h3>Exams</h3>
 
 There will be two midterm exams during the quarter, held in class:
 - Week 4 - Friday 10/21/2022
