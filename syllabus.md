@@ -95,26 +95,26 @@ programming will make up the majority of your work in the course.
 
 There are numerous opportunities to get feedback on your work and improve:
 
-- **Shortly after the deadline** for each assignment, a staff member 
-will grade your work and get feedback on what, if anything, you need to fix.
+- **Shortly after the deadline** for each assignment, the autograded portion
+will automatically grade your submitted code and for the manually graded portion,
+a staff member will grade your work and get feedback on what, if anything, you need to fix.
 
 - **After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
-submission and request to have your work regraded up to three more times (for each PA). 
-A staff member will grade your resubmission and let you know when it has been graded. 
-Note: depending on how busy the staff is, it may take up to a week to grade your resubmission. 
-It may also take another week or so after it's graded before the grade is moved to Canvas.
+submission which will be open for up to three weeks (less for those assignemtns near 
+the end of the quarter). Once the Late/Resubmit submission closes, your submission
+will again be graded. 
 
 There is no penalty for resubmissions, you can still earn full credit. 
-We will take the highest score between your original submission and your late/resubmissions.
+We will take the highest score between your original submission and your late/resubmission.
 
 The **Late/Resubmit** process applies if your submission is late. You should strive
 to complete each PA before it's posted deadline as the PAs are practice for the exams.
 You will also receive earlier feedback and an extra grading attempt if you submit
 before the original deadline.
 
-The **Hard deadline** for all late/resubmissions is Friday of Week 10 at 10pm. We will not accept
-any submissions after that time, for any reason.
+For those assignments near the end of the quarter, the **Hard deadline** for all late/resubmissions 
+is Friday of Week 10 at 10pm. We will not accept any submissions after that time, for any reason.
 
 <a id="p:open-closed"></a>
 <h3>Collaboration</h3>
