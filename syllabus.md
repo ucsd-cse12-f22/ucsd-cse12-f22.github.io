@@ -60,7 +60,7 @@ readings as this is the primary way to learn the CSE 12 material.
 **In-person lectures** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
-You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
+You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
 Since these lectures may be mostly student discussion, the recordings are mostly 
 an archive of any live demos that come up rather than a presentation of core content.
