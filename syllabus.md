@@ -156,7 +156,7 @@ There are two types of assignments in this course, **open** and **closed**:
 
     **Example:** On an open assignment, you and another
     student chat online about the solution, you figure out a particular
-    helper method together. Your file should say “//The FOO function was
+    helper method together. Your comment should say “//The FOO function was
     developed in collaboration with Firstname Lastname”
 
     **Example:** On an open assignment, a student posts the
