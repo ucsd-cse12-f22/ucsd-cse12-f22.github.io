@@ -113,8 +113,8 @@ to complete each PA before it's posted deadline as the PAs are practice for the 
 You will also receive earlier feedback and an extra grading attempt if you submit
 before the original deadline.
 
-For those assignments near the end of the quarter, the **Hard deadline** for all late/resubmissions 
-is Friday of Week 10 at 10pm. We will not accept any submissions after that time, for any reason.
+For those assignments near the end of the quarter, the deadline for all late/resubmissions 
+will be Friday of Week 10 at 10pm. We will not accept any submissions after that time, for any reason.
 
 <a id="p:open-closed"></a>
 <h3>Collaboration</h3>
