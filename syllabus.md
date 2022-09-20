@@ -161,13 +161,13 @@ There are two types of assignments in this course, **open** and **closed**:
 
     **Example:** On an open assignment, a student posts the
     recursive method calls they used to solve a problem you were
-    struggling with. Your code should say “//I used the code from
+    struggling with. Your comment should say “//I used the code from
     https://piazza.com/class/id-of-post”.
 
     **Example:** You and another student sit next to each other,
     and point out mistakes and errors to one another as you work through
     the assignment. As a result, your solutions are substantially similar.
-    Your code should say “//I collaborated with Firstname Lastname to
+    Your comment should say “//I collaborated with Firstname Lastname to
     develop my solution.”
 
   - You cannot share an entire repository of code or paste an entire solution
