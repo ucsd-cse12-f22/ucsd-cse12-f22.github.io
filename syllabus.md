@@ -93,7 +93,7 @@ To ensure you get credit for the Stepik exercises, you must fill out this [form]
 Most weeks there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
 
-There are numerous opportunities to get feedback on your work and improve:
+There are several opportunities to get feedback on your work and improve:
 
 - **Shortly after the deadline** for each assignment, the autograded portion
 will automatically grade your submitted code and for the manually graded portion,
