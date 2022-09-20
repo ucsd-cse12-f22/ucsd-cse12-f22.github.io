@@ -152,12 +152,11 @@ There are two types of assignments in this course, **open** and **closed**:
   look at your code and suggest approaches and fixes.
   
   There are a few restrictions:
-  - Any code that you didn't write must be cited in the README file that goes
-    along with your submission
+  - Any code that you didn't write must be cited in the comments at the top of all of your submitted code files.
 
     **Example:** On an open assignment, you and another
     student chat online about the solution, you figure out a particular
-    helper method together. Your README should say “The FOO function was
+    helper method together. Your file should say “//The FOO function was
     developed in collaboration with Firstname Lastname”
 
     **Example:** On an open assignment, a student posts the
@@ -192,8 +191,8 @@ There are two types of assignments in this course, **open** and **closed**:
   idea on Piazza that is wrong, or doesn't work with your solution; we won't
   necessarily tell you one way or another while the assignment is out.
 
-  If we see that you used code from other students and didn't cite it in the
-  README, the penalty will range from a point deduction to an academic
+  If we see that you used code from other students and didn't cite it at the top
+  of your file, the penalty will range from a point deduction to an academic
   integrity violation, depending on the severity. Always cite your work!
 
 - **Closed** assignments, where you cannot collaborate with others. The closed 
