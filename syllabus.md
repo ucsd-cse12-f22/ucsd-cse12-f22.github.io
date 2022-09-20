@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE12 Spring 22"
+title: "Syllabus – UCSD CSE12 Fall 22"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 12 Spring 2022
+# UCSD CSE 12 Fall 2022
 ## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
@@ -34,19 +34,17 @@ and discuss more efficient strategies in office hours.
 There are a few components to your grade in the course:
 
 - Course engagement activities (weekly quizzes and surveys) (20%)
-- Programming assignments (20%)
-- Programming assessments (exams) (60%)
+- Programming assignments (40%)
+- Programming assessments (exams) (40%)
 
 Letter grades will be assigned based on the following grading scale:
 
 ![Grades](grades.png)
 
-We will not round grades up. We may adjust the above scale to be more lenient 
+We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
-
-In addition, you must average **65%** on the programming assessments (exams) in order to pass the course.
 
 <h3>Problem Sessions – Lecture</h3>
 
