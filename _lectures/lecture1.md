@@ -20,7 +20,7 @@ and code examples, notes, and recordings from the problem solving session.
 Session plan:
 - 2-3 min: Introduce instructors/staff
 - 2-3 min: Say hi to the people around you
-- 40 min: syllabus
+- 25 min: syllabus
     - Problem Solving Sessions, videos
     - Stepik
     - Programming
@@ -28,7 +28,7 @@ Session plan:
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
-- 5 min: q/a
+- 20 min: pre-test (for research)
 
 After the first lecture, there is one video to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
