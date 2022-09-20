@@ -224,9 +224,25 @@ on academic integrity as well.
 <a id="g:exams"></a>
 <h3>Programming Assessments (Exams)</h3>
 
+There will be two midterm exams during the quarter, held in class:
+- Week 4 - Friday 10/21/2022
+- Week 8 - Friday 11/18/2022
 
-TBD
+The final exam will be:
+- Week 10 - Saturday 12/3/2022, 8am - 11am, room will be announced in Week 10
 
+Seats will be assigned for all exam sessions and announced beforehand, and you must bring your school ID to the exam. All work on exams is to be done on your own, and you are not allowed to use any electronics or study aids during the exam (aside from those needed for University-approved academic accommodations). You may not speak to any other student in the exam room while the exam is in progress (including after you hand in your own exam). You may not share any information about the exam with any student who has not yet taken it (including students in future quarters of CSE12).
+
+The first two exams will each be worth 8% of your final grade. The final exam will be worth 24% of your final grade. The final exam will have a specific structure – it will be broken into three parts corresponding to material from the first exam, the second exam, and the remainder of the course. Your grade for each midterm will be the maximum of the midterm grade and the score you get on the corresponding part of the final exam.
+
+For example, if you get 50% of the points for midterm 1 and 100% of the points for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and 100% on part 3, you would get:
+
+MAX(0.5, 0.75) * 8 = 6 points for midterm 1 (0.75 was higher, so the final increased the midterm score!)
+MAX(1, 0.25) * 8 = 8 points for midterm 2 (0.25 was lower, so the original midterm score was used)
+0.75 * 8 + 0.25 * 8 + 1 * 8 = 16 points for the final exam (the score on the final exam is the same regardless of how the midterms went)
+A total of 30 out of 40 exam points towards your final grade
+
+This policy also covers what happens if you miss a midterm for any reason. If you are absent for a midterm, you get a 0 initially, and then whatever score you get on the final for that section will be applied to your midterm grade. There are no make-up midterms, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
 
 <a id="policies"></a>
 ## Policies
@@ -254,7 +270,7 @@ acts with integrity!), but we state it clearly in the syllabus in case it
 becomes necessary so it isn't a surprise to anyone.
 
 You should be familiar with [the UCSD
-guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
+guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}
 on academic integrity as well.
 
 ### Regrades
@@ -282,7 +298,7 @@ and we welcome your perspectives and input.
 
 We also expect that you, as a student in this course, will honor and respect
 your classmates, abiding by the UCSD Principles of Community
-(https://ucsd.edu/about/principles.html).  Please understand that others’
+(https://ucsd.edu/about/principles.html){:target="_blank"}.  Please understand that others’
 backgrounds, perspectives and experiences may be different than your own, and
 help us to build an environment where everyone is respected and feels
 comfortable.
@@ -290,4 +306,4 @@ comfortable.
 If you experience any sort of harassment or discrimination, please contact the
 instructor as soon as possible.   If you prefer to speak with someone outside
 of the course, please contact the Office of Prevention of Harassment and
-Discrimination: https://ophd.ucsd.edu/.
+Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/){:target="_blank"}.
