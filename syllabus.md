@@ -46,13 +46,16 @@ We may adjust the above scale to be more lenient
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
 
-<h3>Problem Sessions – Lecture</h3>
+<h3>Problem Sessions – Lectures</h3>
 
-Most lecture content will be presented asynchronously through videos and readings. These will come with associated weekly quizzes that are due Monday at 10pm. The quizzes are required work to demonstrate your consistent engagement with the material and can be turned in late for full credit by the end of the quarter.
+Most course content will be presented asynchronously through videos and readings, 
+with associated interactive activities which should be completed before lecture. 
+Lectures will involve problem solving with your classmates along with an opportunity
+to ask quesitons about the material.  Participation is not required at problem-solving sections, 
+but it is highly encouraged.
 
-In our originally-scheduled lecture time, we will have an opportunity for live questions, clarifications, and some prompts for you to work on beyond the assigned reading and videos. Attendance is encouraged but not required. 
-
-Recordings of relevant classwide discussions will be posted after the meetings, though the selected videos/reading for the given day are the official “lecture” for that day.
+It is very important that students watch all pre-leture videos and go through the Stepilk 
+readings as this is the primary way to learn the CSE 12 material. 
 
 **In-person lectures** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
@@ -64,36 +67,25 @@ an archive of any live demos that come up rather than a presentation of core con
 
 <h3>Discussion</h3>
 
-**In-person discussion** will reinforce concepts from class and introduce concepts that are especially helpful for completing programming assignments. Students from either section can attend either discussion. They will be recorded. Attendance is encouraged but optional.
+**In-person discussion** will reinforce concepts from class and introduce concepts that 
+are especially helpful for completing programming assignments. Discussions are also an
+opporunity to ask questions about the assignments as well as the course material. 
+Students can attend any discussion section. They will be recorded. Attendance is encouraged but optional.
 
-Like lectures, discussions will also be recorded and made available in the  Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu)
-  
+Like lectures, discussions will also be recorded and made available in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
+
 ### Book Exercises/Quizzes and Course Engagement
 
-There is no required textbook for the course. 
+Along with each lecture will come some required pre-lecture work. Most often this will be 
+reading and activities from our [Stepik textbook](https://stepik.org/course/109917/syllabus){:target="_blank"}, 
+and will also sometimes include surveys or check-in quizzes so we can get your feedback about the course and check on your understanding.
 
-There is a zyBook available that has been used in the past. You can purchase a subscription and use it at your convenience; it serves as a useful reference and is organized in the order material is presented in this course, and there will be links to relevant zyBooks sections in with the course schedule. There is also a significant amount of reference material at the end of the book for review of Java concepts. To get access to the book:
+The online texbook records your progress, and we give a schedule of expected times to finish the readings (i.e. they are due before the lecture in which they are assigned). There is no penalty for completing these late, but they are assigned so that you will be prepared to participate in problem solving session and so that you know the expected pace of the course.
 
-1. Sign in or create an account at <a href="http://learn.zybooks.com">learn.zybooks.com</a>
-2. Enter zyBook code: UCSDCSE12MirandaSpring2022
-3. Subscribe
-
-If you cannot afford the book or have questions about using your financial aid, please see this page: <a  target="_blank" href="https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-">https://zybooks.zendesk.com/hc/en-us/articles/360007439574-Can-I-pay-using-my-financial-aid-</a>
-
-We may use other on-line resources during the quarter that may be required
-reading or activities. These will all be free and linked from the schedule.
-
-Along with each lecture will come some required pre-lecture work. Most often
-this will be reading and activities from the weekly lecture quizzes, and will also sometimes
-include surveys or check-in quizzes so we can get your feedback about the course
-and check on your understanding.
-
-The weekly lecture quizzes are in Gradescope and can be re-taken as often as you like.
-There is no penalty for completing these late, but they are assigned so that you will 
-be prepared to participate in problem solving session and so that you know the expected pace of the course. 
-
-All weekly lecture quizzes must be completed by the last day of class in Week 10: June 3, 2022 at 10pm.
+All Stepik exercises must be completed by the last day of class in Week 10: December 2nd, 2022 at 10pm. 
 After this time, no late submissions will be accepted, for any reason.
+
+To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/rrhGj9YtaCG9tket9){:target="_blank"} by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
