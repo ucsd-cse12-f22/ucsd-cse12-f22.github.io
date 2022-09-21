@@ -116,6 +116,11 @@ before the original deadline.
 For those assignments near the end of the quarter, the deadline for all late/resubmissions 
 will be Friday of Week 10 at 10pm. We will not accept any submissions after that time, for any reason.
 
+Each student gets a free “slip day” for each programming assignment (PA) that allow an automatic 24-hour 
+extension to submit the PA. You do not have to ask to use your slip day. Just submit your 
+assignment after the deadline (but before 24 hours after the deadline) to automatically use your 
+slip day. There is no penalty for using this free slip day. 
+
 <a id="p:open-closed"></a>
 <h3>Collaboration</h3>
 
