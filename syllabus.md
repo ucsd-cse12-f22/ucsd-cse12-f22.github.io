@@ -88,7 +88,7 @@ After this time, no late submissions will be accepted, for any reason.
 To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/rrhGj9YtaCG9tket9){:target="_blank"} by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
 <a id="p:programming"></a>
-<h3>Programming</h3>
+<h3>Programming Assignments (PAs)</h3>
 
 Most weeks there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
