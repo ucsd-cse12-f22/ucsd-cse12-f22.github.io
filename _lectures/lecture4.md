@@ -17,6 +17,11 @@ Readings (to be completed by 8am on September 30, **before** problem session).
 
 To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/rrhGj9YtaCG9tket9){:target="_blank"} by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
+The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
+
+To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday of Week 2 to ensure that they are certified.
+- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/39524/quizzes/117363){:target="_blank"}
+
 Videos (to watch **before** your problem session on September 30):
 
 {% for video in page.videos %}
