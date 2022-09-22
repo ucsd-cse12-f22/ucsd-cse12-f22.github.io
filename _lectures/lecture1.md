@@ -33,6 +33,11 @@ Session plan:
 After the first lecture, there is one video to watch. You should also familiarize
 yourself with the [syllabus](../syllabus.html).
 
+The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
+
+To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday to ensure that they are certified.
+- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/39524/quizzes/117363){:target="_blank"}
+
 Videos (to watch **after** your problem session on September 23):
 
 {% for video in page.videos %}
