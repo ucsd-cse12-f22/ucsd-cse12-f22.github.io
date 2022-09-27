@@ -5,7 +5,7 @@ name: Review, (Array) Lists
 released-on: "2022-09-28"
 videos:
     - title: "Review, (Array) Lists"
-      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+      url: https://drive.google.com/file/d/1ouaycQpAGEqNo-I-BAeTQwWvFaBnU-6k
 ---
 
 ## Problem Session 3 – Review, (Array) Lists
