@@ -1,14 +1,14 @@
 ---
 layout: with-sidebar
 index: 8
-name: BFS, DFS, ADTs and Measuring Runtime Intro
+name: BFS, DFS, ADTs
 released-on: "2022-10-10"
 videos:
   - title: BFS, DFS, ADTs and Measuring Runtime Intro
     url: https://drive.google.com/file/d/1iTe2ceDaf5xlhKXYvhuyY11BofhfNzqH
 ---
 
-## Problem Session 8 – Stacks, Queues, 2D Search
+## Problem Session 8 – BFS, DFS, ADTs and Measuring Runtime Intro
 
 _{{ page.released-on }}_
 
