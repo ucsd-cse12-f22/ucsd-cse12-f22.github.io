@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-index: 3
+index: 5
 name: Linked Lists
 released-on: "2022-10-03"
 videos:
