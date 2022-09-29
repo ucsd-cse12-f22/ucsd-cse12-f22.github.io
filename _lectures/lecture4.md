@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-index: 3
+index: 4
 name: Array Lists
 released-on: "2022-09-30"
 videos:
