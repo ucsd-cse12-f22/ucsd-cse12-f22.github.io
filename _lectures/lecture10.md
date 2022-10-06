@@ -8,7 +8,7 @@ videos:
     url: https://drive.google.com/file/d/1jY44374airVITjEGbV2vrGwNrHK3xFuw
 ---
 
-## Problem Session 10 – ADTs and Measuring Runtime Intro/Counting Steps
+## Problem Session 10 – Categorizing Runtimes
 
 _{{ page.released-on }}_
 
