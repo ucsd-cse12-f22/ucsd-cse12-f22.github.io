@@ -13,7 +13,7 @@ videos:
 _{{ page.released-on }}_
 
 Readings (to be completed **before** problem session). 
-- [Stepik 15.6  ](https://stepik.org/lesson/692961/step/1?unit=692572){:target="_blank"}
+- [Stepik 15.6](https://stepik.org/lesson/692961/step/1?unit=692572){:target="_blank"}
 
 Videos (to watch **before** problem session):
 
