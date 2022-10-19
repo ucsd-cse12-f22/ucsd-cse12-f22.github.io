@@ -22,7 +22,7 @@ This PA is due on ** **Tuesday, October 25 at 10:00pm** **
 
 ## Getting the Code
 
-The starter code is at [here](https://github.com/ucsd-cse12-sp22/cse12pa4-runtime). If you are not familiar with Github, here are two easy ways to get your code.
+The starter code is at [here](https://github.com/ucsd-cse12-f22/cse12-pa4-runtime). If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
@@ -328,10 +328,9 @@ you're seeing that even on values of n in the hundreds of thousands, you get
 effectively constant behavior, you should try _disabling_ these optimizations
 to get more useful measurements for distinguishing the implementations.
 
-Instructions for doing this are in the _Turning Off Java Optimizations_ section
-of this Google Doc (scroll to the end):
-
-[https://docs.google.com/document/d/1vwckO76TrBT8B5E4xQ2-v2OXncLa6SQWuaQkNZaCPB0/edit](https://docs.google.com/document/d/1vwckO76TrBT8B5E4xQ2-v2OXncLa6SQWuaQkNZaCPB0/edit)
+To turn off optimization in terminal:
+- Add in the flag in your javac and java commands. 
+- Examples: java -Djava.compiler=NONE myClass	
 
 Note that this will make all the mystery methods run _a lot_ slower, so you may
 want to _decrease_ the values of n you use after making this change to avoid
@@ -355,10 +354,6 @@ You may submit as many times as you like till the deadline.
       from real data that you measured using `measure`, and they must show an
       interesting relationship that helps justify the matching. 
   - The last section gives you a space to indicate who you collaborated with (if you collaborated with anyone).
-
-If you want a guide on how to get from the CSV data to a graph, look here:
-
-[https://docs.google.com/document/d/1vwckO76TrBT8B5E4xQ2-v2OXncLa6SQWuaQkNZaCPB0/edit](https://docs.google.com/document/d/1vwckO76TrBT8B5E4xQ2-v2OXncLa6SQWuaQkNZaCPB0/edit)
 
 #### Part 2
 The `Programming Assignment 4 - code` assignment in Gradescope is where you will submit your final code for performing measurements.
