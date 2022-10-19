@@ -355,6 +355,11 @@ You may submit as many times as you like till the deadline.
       interesting relationship that helps justify the matching. 
   - The last section gives you a space to indicate who you collaborated with (if you collaborated with anyone).
 
+If you want a guide on how to get from the CSV data to a graph, look here:
+
+[https://docs.google.com/document/d/1FZpDqmJRDxntCd0fmQUVSwVz9SouFWIJZDlmQQEyy44/edit?usp=sharing](https://docs.google.com/document/d/1FZpDqmJRDxntCd0fmQUVSwVz9SouFWIJZDlmQQEyy44/edit?usp=sharing)
+
+
 #### Part 2
 The `Programming Assignment 4 - code` assignment in Gradescope is where you will submit your final code for performing measurements.
 Please submit the following file structure:
