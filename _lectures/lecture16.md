@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 16
-name: Map and HashTable (again)
+name: Map and HashTable #2
 released-on: "2022-10-31"
 videos:
   - title: Map and HashTable (again)
