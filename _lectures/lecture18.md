@@ -14,6 +14,7 @@ _{{ page.released-on }}_
 
 Readings (to be completed **before** problem session). 
 - [Stepik 10.1 - 10.3](https://stepik.org/lesson/700533/step/1?unit=700514){:target="_blank"}
+- [Stepik 11.1 - 11.3](https://stepik.org/lesson/700536/step/1?unit=700517){:target="_blank"}
 
 Videos (to watch **before** problem session):
 
