@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 19
-name: Binary Search Trees (again)
+name: Binary Search Trees 2
 released-on: "2022-11-07"
 videos:
   - title: Binary Search Trees (again)
@@ -13,7 +13,7 @@ videos:
 _{{ page.released-on }}_
 
 Readings (to be completed **before** problem session). 
-- [Stepik 11.1 - 10.5](https://stepik.org/lesson/700536/step/1?unit=700517){:target="_blank"}
+- [Stepik 11.4 - 11.5](https://stepik.org/lesson/700536/step/1?unit=700517){:target="_blank"}
 
 Videos (to watch **before** problem session):
 
