@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 21
 name: Heap Applications
-released-on: "2122-11-14"
+released-on: "2022-11-14"
 videos:
   - title: Heap Applications
     url:  https://drive.google.com/file/d/1OaJPfyQzbY0Ziye2Oc0gSob6Mq34RhX_
