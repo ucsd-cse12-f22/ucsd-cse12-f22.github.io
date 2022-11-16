@@ -2,22 +2,17 @@
 layout: with-sidebar
 index: 10
 name: PA8
-released-on: "2022-05-18"
+released-on: "2022-16-11"
 ---
-
 # CSE 12 Programming Assignment 8
 
 ### Heaps
 
 **This assignment is open to collaboration.**
 
-This assignment will teach you how to implement a Heap using Dijkstra's Algorithm.
+This assignment will teach you how to implement and use Heaps.
 
-This PA is due on ** **Tuesday, May 31 at 10:00pm** **  
-
-Link to PA Test Cases: [https://hackmd.io/@gadjoian/SJPgQRIz](https://hackmd.io/@gadjoian/SJPgQRIz)
-
-Note that for MazeSolver tests, your output doesn't have to be exactly the same as in the document above. However, your output does need to have the same cost as the reference output.
+This PA is due on ** **Tuesday, Nov 24 at 10:00pm** **  
 
 ## CSE Mantra: *Start early, start often!*
 
@@ -25,8 +20,7 @@ Note that for MazeSolver tests, your output doesn't have to be exactly the same 
 
 
 ## Getting the Code
-
-The starter code is here: [https://github.com/ucsd-cse12-sp22/cse12-pa8-Heap](https://github.com/ucsd-cse12-sp22/cse12-pa8-Heap). If you are not familiar with Github, here are two easy ways to get your code.
+The starter code is here: https://github.com/ucsd-cse12-f22/cse12-pa8-Heap. If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
@@ -38,7 +32,8 @@ The starter code is here: [https://github.com/ucsd-cse12-sp22/cse12-pa8-Heap](ht
 
 If you are unsure or have questions about how to get the starter code, feel free to make a Piazza post or ask a tutor for help.
 
-## Part 1: An Implementation of `Heap` (18 points)
+
+## Part 1: An Implementation of `Heap` 
 
 You will create a file named `Heap.java` where you will implment the `Heap` class. You will implement all the methods defined in the given interface `PriorityQueue.java` in the `Heap` class as well as additional methods described below.
 
@@ -50,23 +45,7 @@ import java.util.NoSuchElementException;
 import java.util.ArrayList;
 import java.util.Comparator;
 ```
-
 *Do **NOT** import any additional packages!*
-
-### `Entry` Class
-Copy the following code into your `Heap.java` file. This will be an outer class that represents the entries for the heap. Note, the key represents the priority.
-
-```
-class Entry<K, V> {
-    K key; // aka the _priority_
-    V value;
-    public Entry(K k, V v) { this.key = k; this.value = v; }
-    public String toString() {
-        return key + ": " + value;
-    }
-}
-```
-
 
 ### `Heap` Class
 #### Instance Variables
@@ -74,8 +53,6 @@ class Entry<K, V> {
 - `public Comparator<K> comparator`: This comparator will be passed into the constructor and will be used to determine which entry objects have more priority based on their keys. This comparator class has one method as follows:
 
 `public int compare(Integer a, Integer b)`: takes in two integers and returns an integer value that represent whether a, takes priority over b. A return value of 0 signifies that the priorities of a and b are equal. A negative return value will signify that a has less priority than b and a positive return value will assume the opposite.
-
-
 
 #### Constructor
 Your heap implementation will have one constructor that takes a comparator as its argument.
@@ -92,7 +69,6 @@ Your heap implementation will have one constructor that takes a comparator as it
 |`public boolean isEmpty()`| If the List of entries is empty, return true. Otherwise, return false. |
 
 
-
 #### Additional Method Descriptions
 
 | Method Name | Description |
@@ -107,48 +83,50 @@ Your heap implementation will have one constructor that takes a comparator as it
 |`public int size()`| Returns the number of elements in `entries`. |
 |`public String toString()`| Returns a string representation of the elements in `entries` (this method is helpful for debugging) |
 
-
 You may find the following link useful:
 - [`Comparator`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Comparator.html)
 
-Your implementation of `Heap` will be graded automatically by tests that we
-provide. We’ve provided a description of all of these tests as a link to HackMD as a part of the starter code.
 
-## Part 2: `MazeSolver` (Dijkstra's Algorithm 15 points)
+## Part 2: Kth largest/smallest element finder
 
-In pa3 you completed an algorithm that would find the shortest possible path from a start square to a finish square using a queue structure. To extend this concept further, we have added a cost attribute to each square. This cost attribute is an integer value that denotes how costly it is to visit a particular square. The square also has an attribute, runningCost, which denotes the current total cost it took to get to that square from the start square.   
+For part two, you have to write a method to return the kth largest or smallest element from a list of n elements, where n is several times larger than k. An obvious approach to finding the Kth largest/smallest element would be to sort them, which requires O(nlogn) operations. However, this approach becomes inefficient in both time and space with increase in input size. Heaps, on the other hand, provide a much better solution. The run-time complexity with heaps is O(nlogk). Your task is to come with an algorithm to find the kth largest or smallest element using heaps in O(nlogk).
 
-The goal now is not to find the shortest possible path, but rather to minimize the cost from the start square to the finish square. To do so you will use Dijkstra's algorithm along with the priority queue structure (heap) that you constructed in part 1. Follow the following psuedo code to implement the cost minimization algorithm in the `solve` method of `MazeSolver.java`.  
+Given a list of n non-negative integers in the form of a file, the `Kth_finder` method would return the Kth largest/smallest number from the input file. File name, value of K and the type of the task ("largest" or "smallest") are the arguments to the function. This function is present inside the ElementFinder class.
 
-```
-1. initialize pq to be a new empty heap // This will be done in the tester file
-                                        // and passed into solve as a parameter.
-2. add the start square's cost as the key
-   and the start square itself as the value to pq
-3. while pq is not empty:
-4.     let current = remove the first entry from pq (poll)
-5.     let currentSquare = current's value
-6.     Mark currentSquare as visited
-7.     if currentSquare is the finishing square
-8.         return currentSquare
-9.     else
-10.         for each neighbor of currentSquare that isn't a wall and isn't visited
-11.            let currentCost = current's key plus the neighbors cost
-12.            if currentCost is less than neighbor's runningCost
-13.                set the previous of the neighbor to currentSquare
-14.                set the neighbors runningCost to currentCost
-15.                add the currentCost as key and neighbor as value to the pq (add)
-16. if the loop ended, return null (no path found)
-```
+For example, input.txt is a file that contains 15 numbers with 5 space-separated numbers in each line. The method Kth_finder("input.txt", 4, "largest") would return 13.
+
+1 4 6 8 9
+
+10 13 14 0 1
+
+98 96 5 3 2
+
+#### Required Method Description
+
+| Method Name | Description |
+|-------------|----------------------|
+|`public Kth_finder(filename, K, operation)`| Return the Kth largest or Kth smallest element| 
+
+Parameters: 
+* filename - String type. Make sure to add proper checks and try/catch conditions.
+* K - You can expect K to always be smaller than the size of the input and greater than 0.
+* operation - Either "largest" or "smallest"
+
+Reading the file: You should read one line at the time, evaluate all the numbers in that line and then read the next line. You should not load the entire file at once. You can expect test cases where the file size is bigger than the available memory.
+
+Return value: The method should return the kth largest/smallest element if it exists. If no such element exists, the method should return -1.
+
+Algorithm: There are four steps to this algorithm:
+* First, figure out the type of heap (Min-Heap or Max-Heap) you will need depending upon the type of operation. There's no programming involved in this step.
+* Second, implement the comparators needed for each type of heap. Take a look at the unit test for help.
+* The third step is to create a heap that allows you to find the required element in O(nlogk) complexity. What it means is that the bubbleUp/bubbleDown operations should only take about O(logk). Think of the input file as an infinite sequence of numbers. There's no possible way to store all of them. But we can store upto K elements in the form of a heap. So far the complexity is only O(klogk).
+* The last step is to use this heap in a way that for every element after the first k, you'd need at most O(logk) operations to figure out if this element should be discarded or stored in the heap.
+
 
 ## Testing
-**All test case descriptions available here: [https://hackmd.io/@gadjoian/SJPgQRIz](https://hackmd.io/@gadjoian/SJPgQRIz)**
 ### Heap - HeapTest.java
-In the starter code, we provided the file HeapTest.java to unit test your implementation. **Note**: For this PA, your unit tests will be graded for completion only (i.e. at least 1 test written), however, we **strongly** encourage you to thoroughly test every public method in your class. You are required to have at least one unit test written by yourself. We have provided the descriptions of the tests we'll use to grade your code, so we recommend you incorporate those tests into your HeapTest.java.
+In the starter code, we provide you with HeapTest which has an example of how to unit test your implementaion. **Note**: For this PA, your unit tests will be graded for completion only, however, we **strongly** encourage you to thoroughly test every public method in your class. You are required to have at least one unit test written by yourself. 
 
-### MazeSolver - TestSolver.java
-Just like pa3 you will be creating different mazes that you will run your algorithm through to find a path from the start square to the finish square. However, this time there will also be a 2-D cost array that you will include when creating the Maze. We have included one testcase for you to demonstrate how to construct the costArray and create the corresponding Maze. This test should pass when you have finished implementing the solve algorithm. Similar to HeapTest.java, you should include at least one unit test as we will be grading for completion; however, we **strongly** recommend you to look at the test descriptions given and write
-as many tests as you can to ensure you'll pass all of the autograder tests.
 
 ## Part 3: Gradescope Assignment (5 points)
 Answer the questions in *Programming Assignment 8 - questions* on Gradescope. For each coding question, you will need to choose a proper data structure for solving it, such that the time complexity achieved will be optimal. Here is an overview of each question. See more details in the Gradescope assignment.
@@ -160,8 +138,8 @@ Answer the questions in *Programming Assignment 8 - questions* on Gradescope. Fo
 5. Given an array of distinct elements, print the closest greater element for every element. The closest greater element for an element `x` is the smallest element on the right side of `x` in array which is greater than `x`. Elements for which no greater element exist, consider next greater element as -1.
 
 
+
 ## Clarification
-- If you're finding a different path than the ones we've specified, change the order in which you check neighbors and push them into the `PriorityQueue` to be North->South->East->West. The larger graphs could potentially have more than one solution which was not intended.
 - You should use `compare` in `existsAndGreater()`, which is where you should check if the indices exists before calling `compare`.
 - Your implementation of Heap should simply use the `Comparator` that was passed into it's constructor to do the comparisons. You do not need to specify Min/Max anywhere in your Heap implementation so long as you are correctly using the passed in `Comparator` object.
 - `Integer::compare` will result in a max heap. `Collections.reverseOrder(Integer::compare)` will result in a min heap.
@@ -170,10 +148,9 @@ Answer the questions in *Programming Assignment 8 - questions* on Gradescope. Fo
 
 The following files will be graded on style:
 
-* Heap.Java
+* Heap.java
 * HeapTest.java
-* MazeSolver.java
-* TestSolvers.java
+* ElementFinder.java
 
 To find the full style guideline, follow this link: [https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing](https://docs.google.com/document/d/1XCwv_vHrp1X4vmlmNJIiXnxPuRLPZQkQEGNrJHJ0Ong/edit?usp=sharing)
 
@@ -195,26 +172,26 @@ On this PA, **all guidelines must be followed**, they are summarized below:
 ## Submitting
 
 #### Part 1 & 2
-On the Gradescope assignment **Programming Assignment 8 - code** please submit the following file structure:
+On the Gradescope assignment **Programming Assignment 8 - code** please submit the following files:
 
-* Heap.java
-* HeapTest.java
-* Maze.java
-* MazeSolver.java
-* TestSolvers.java
+* Entry.java
 * PriorityQueue.java
-* Square.java
+* Heap.java
+* ElementFinder.java
+* HeapTest.java
 
 The easiest way to submit your files is to drag them individually into the submit box and upload that to Gradescope. You may submit as many times as you like till the deadline.
 
 #### Part 3
 Please submit your answers to the questions from part 3 on the Gradescope assignment **Programming Assignment 8 - questions**. You may submit as many times as you like till the deadline.
 
-## Scoring (45 points total)
+
+## Scoring (40 points total)
 
 - 18 points: implementation of `Heap` [automatically graded]
-- 15 points: Implementation of `MazeSolver` [automatically graded]
+- 11 points: Implementation of `Kth_Finder` [automatically graded]
 - 5 points: Gradescope Questions [automatically graded]
 - 5 points: Style [manually graded]
 - 1 point: `HeapTest` graded on completion [manually graded]
-- 1 point: `TestSolvers` graded on completion [manually graded]
+
+
