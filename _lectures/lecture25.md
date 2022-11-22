@@ -9,6 +9,8 @@ released-on: "2022-11-28"
 
 _{{ page.released-on }}_
 
+There is no pre-lecture video. Either come to lecture or watch the podcast.
+
 Readings (to be completed **before** problem session). 
 - No Stepik readings
 
