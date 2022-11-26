@@ -19,7 +19,7 @@ Videos (to watch **before** problem session):
 
 ## Handout
 
-TBD
+<iframe src="https://drive.google.com/file/d/1jyqNMT6rTdunfsRwExEd_HJ4WmuVIurt/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
