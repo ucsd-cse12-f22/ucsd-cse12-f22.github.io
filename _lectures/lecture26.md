@@ -15,6 +15,7 @@ Extra Credit
 
 The same team that gave the ungraded quiz on the first day of lecture is doing another quiz
 to complete their research study. We will give all participants at lesat 1% extra credit.
+
 We do not do any grade rounding, so this will be your only opportunity to move up a grade
 if you are on the boundary (i.e. 92.5% would become 93.5% if you do the extra credit moving 
 from an A- to an A).
