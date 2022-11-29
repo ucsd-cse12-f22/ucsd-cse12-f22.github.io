@@ -30,7 +30,7 @@ Videos (to watch **before** problem session):
 
 ## Handout
 
-TBD
+<iframe src="https://drive.google.com/file/d/1k-AzWx9euvvWJM9p0hTv_FOnLswdfGle/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
